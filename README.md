@@ -13,5 +13,9 @@
 ## Sending and processing event.
 <img src="img/ss2.png">
 
+When we use the RabbitMQ, if we run the subscribern and then run th epublisher, the publisher will send a message to RabbitMQ, and the subscriber will receive the message, just like what happen in the picture.
+
 ## Monitoring chart based on publisher.
 <img src="img/ss3.png">
+
+After running the publisher several times, I noticed a pattern between the spikes and the publisher activity. It seems that each time the publisher is run, the spike increases, indicating a higher message rate.
