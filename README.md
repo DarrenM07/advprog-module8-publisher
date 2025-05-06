@@ -9,3 +9,6 @@
 
 ## Running RabbitMQ as message broker.
 <img src="img/ss1.png">
+
+## Sending and processing event.
+<img src="img/ss2.png">
