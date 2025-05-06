@@ -12,3 +12,6 @@
 
 ## Sending and processing event.
 <img src="img/ss2.png">
+
+## Monitoring chart based on publisher.
+<img src="img/ss3.png">
